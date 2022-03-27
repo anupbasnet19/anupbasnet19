@@ -6,5 +6,5 @@
 - 📫 I have experience in: laravel Wordpress, Vue.js, mysql, sql.
 - 💬 Ask me about: Anything.
 - ⚡ Fun fact: I am half Finnish.
-
-![Github Profile Brief View](https://github-readme-stats.vercel.app/api?username=anupbasnet19&show_icons=true&theme=radical&border_radius=10)
+<!-- 
+![Github Profile Brief View](https://github-readme-stats.vercel.app/api?username=anupbasnet19&show_icons=true&theme=radical&border_radius=10) -->
